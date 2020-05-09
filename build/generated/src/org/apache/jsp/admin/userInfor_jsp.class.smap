@@ -1,0 +1,17 @@
+SMAP
+userInfor_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+admin/header.jsp
++ 1 userInfor.jsp
+admin/userInfor.jsp
++ 2 footer.jsp
+admin/../footer.jsp
+*L
+1,52:50
+1#1,73:102
+1#2,15:174
+73#1:189
+*E
